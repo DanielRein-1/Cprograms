@@ -1,0 +1,20 @@
+# Compiled executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+
+# VS Code local configuration
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Our compiled C executables
+01_basics/hello
